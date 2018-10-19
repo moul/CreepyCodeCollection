@@ -1,6 +1,8 @@
 <h1> <img src="https://cloud.githubusercontent.com/assets/5456665/22564404/991be738-e9ae-11e6-9084-c1631f970b60.png" width="20" height=auto /> CreepyCodeCollection</h1>
 #### A Nonsense Collection of Disgusting Codes
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/CreepyCodeCollection.svg)](https://www.guardrails.io)
+
 Here we are talking about creepiest of the most creepy codes. Programs, behave so strange, that they will twist your brain. Snippets, so small, that you won’t believe their functionality. And codes, so cryptic, that even the top coders will think of going back to the college.
 
 **Note**: Never try this type of code in a real life software project; readability and maintainability should be the main concern there.
